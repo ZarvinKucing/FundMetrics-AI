@@ -4,7 +4,7 @@ A comprehensive system for extracting, analyzing, and visualizing private equity
 
 ## 📸 Screenshots
 Create a New Fund
-<img width="960" height="510" alt="image" src="" />
+<img width="960" height="510" alt="image" src="https://github.com/ZarvinKucing/pics/blob/main/502116469-2c68a2bf-8ff9-4edc-b01e-2401661abeea.png" />
 
 Upload Fund Report
 <img width="960" height="516" alt="image" src="" />
