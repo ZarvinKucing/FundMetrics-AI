@@ -318,7 +318,7 @@ Located in `backend/.env.example`:
 
 ```env
 # --- Database ---
-DATABASE_URL=postgresql://funduser:fundpass@postgres:5432/interopera_db
+DATABASE_URL=postgresql://funduser:fundpass@postgres:5432/fundmetrics_db
 # --- Google Generative AI (Gemini) ---
 GOOGLE_API_KEY=your_google_api_key_here
 ```
