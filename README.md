@@ -14,7 +14,7 @@ A comprehensive system for extracting, analyzing, and visualizing private equity
 ## 🎯 Objectives
 
 To develop a robust platform that enables users to:
-1.  **Upload** PDF fund performance reports.
+1.  **Upload** PDF reports of fund performance.
 2.  **Automatically extract** structured transaction data (Capital Calls, Distributions, Adjustments) using Docling.
 3.  **Accurately calculate** standard industry metrics (PIC, DPI, IRR) as defined in `CALCULATIONS.md`.
 4.  **Query** the fund data and metrics using natural language through a chat interface powered by RAG.
