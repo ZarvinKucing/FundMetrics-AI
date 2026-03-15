@@ -3,6 +3,17 @@
 A comprehensive system for extracting, analyzing, and visualizing private equity fund performance from PDF reports. This platform automatically extracts transaction data (such as Capital Calls, Distributions, Adjustments) and calculates key industry metrics such as PIC, DPI, and IRR. It provides an easy-to-use interface to query fund data and metrics using natural language.
 
 ## 📸 Screenshots
+Create a New Fund
+<img width="960" height="510" alt="image" src="" />
+
+Upload Fund Report
+<img width="960" height="516" alt="image" src="" />
+
+View Fund Performance Results
+<img width="960" height="514" alt="image" src="" />
+
+Interactive Fund Analysis Chat
+<img width="960" height="514" alt="image" src="" />
 
 ## Key Features:
 1. **Upload PDF Fund Performance Reports**: Easily upload PDF fund performance reports for analysis.
