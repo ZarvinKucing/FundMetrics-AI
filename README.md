@@ -10,7 +10,7 @@ Upload the Fund Report
 <img width="960" height="516" alt="image" src="https://github.com/ZarvinKucing/pics/blob/main/502119339-f7423e29-26db-4c15-b61b-55d1402566dc.png" />
 
 Fund Performance Results
-<img width="960" height="514" alt="image" src="https://github.com/ZarvinKucing/pics/blob/main/502119677-607662c3-cc71-4963-a245-e2dc6f56e034.png" />
+<img width="960" height="514" alt="image" src="https://github.com/ZarvinKucing/pics/blob/main/3.png" />
 
 Interactive Fund Analysis Chat
 <img width="960" height="514" alt="image" src="https://github.com/ZarvinKucing/pics/blob/main/502120690-8c5e77c1-6191-4c3a-81d8-82ba185b5c85.png" />
