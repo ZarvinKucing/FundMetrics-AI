@@ -330,7 +330,3 @@ GOOGLE_API_KEY=your_google_api_key_here
 5.  **View Metrics:** Go to the `/funds` dashboard. Your fund should now display updated metrics (PIC, DPI, IRR).
 6.  **Explore Transactions:** Click on a fund to view its detailed transaction history.
 7.  **Ask Questions:** Go to the `/chat` page. Select the fund you are interested in. Ask questions like "What is the current DPI?" or "Calculate the IRR for this fund." The system will use the latest data to formulate a response.
-
-## 📜 License
-
-This project is intended for demonstration and evaluation purposes as part of the InterOpera coding test. It is not licensed for general public use without explicit permission.
